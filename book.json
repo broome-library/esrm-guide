@@ -1,0 +1,10 @@
+{
+    "description": "A JSBL ESRM Research Guide",
+    "structure":{
+        "readme":"intro.md"
+    },
+    "title":"ESRM Research Guide",
+    "variables": {
+        "librarian":"git+https://git.gitbook.com/broome-library/shared.git/contacts/mpereira.md"        
+    }
+}
