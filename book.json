@@ -5,6 +5,6 @@
     },
     "title":"ESRM Research Guide",
     "variables": {
-        "librarian":"git+https://git.gitbook.com/broome-library/shared.git/contacts/mpereira.md"        
+        "librarian":"git+https://git.gitbook.com/broome-library/shared.git/contacts/phadley.md"        
     }
 }
