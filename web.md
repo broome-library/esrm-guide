@@ -4,6 +4,10 @@
 
 > One of the Internet's most popular sites for breaking news on scientific research.
 
+## [Environmental Justice - US Environmental Protection Agency](https://www.epa.gov/environmentaljustice) 
+
+> US EPA.  Note that US EPA has made significant changes to its website since January 20, 2017.  Information added to the website prior to that may be found at the [EPA Web Archive](https://archive.epa.gov/) or the [January 19, 2017 Snapshot](https://19january2017snapshot.epa.gov/).
+
 ## [Environmental News Network](http://www.enn.com/)
 
 > A well-respected unbiased online source for environmental news.
