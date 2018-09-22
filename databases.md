@@ -30,7 +30,7 @@
 
 ## [Westlaw](http://summit.csuci.edu/login?url=https://1.next.westlaw.com/Search/Home.html?rs=IWLN1.0&vr=3.0&sp=000556315-2100&forcecdn=false&bhskip=1)
 
-> Westlaw is a full-text database incorporating full text of laws, cases from all US jurisdictions, law review articles, and news supporting the legal research process.
+> Westlaw is a full-text database incorporating full text of laws, cases from all US jurisdictions, law review articles, and news supporting the legal research process. A link to "Environmental Law" under the "Practice Areas" tab may help speed the process of collecting material most relevant to ESRM.
 
 ## [Wiley Interscience](http://summit.csuci.edu:2048/login?url=http://onlinelibrary.wiley.com)
 
