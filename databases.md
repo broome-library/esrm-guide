@@ -28,7 +28,7 @@
 
 > SpringerLink is a full-text database for journals and books published by Springer. Thedatabase also features an entire section on Earth and Environmental Science.
 
-## [Westlaw](http://summit.csuci.edu:2048/login?url=http://www.springerlink.com)
+## [Westlaw](http://summit.csuci.edu/login?url=https://1.next.westlaw.com/Search/Home.html?rs=IWLN1.0&vr=3.0&sp=000556315-2100&forcecdn=false&bhskip=1)
 
 > Westlaw is a full-text database incorporating full text of laws, cases from all US jurisdictions, law review articles, and news supporting the legal research process.
 
