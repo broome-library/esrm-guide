@@ -28,6 +28,10 @@
 
 > SpringerLink is a full-text database for journals and books published by Springer. Thedatabase also features an entire section on Earth and Environmental Science.
 
+## [Westlaw](http://summit.csuci.edu:2048/login?url=http://www.springerlink.com)
+
+> Westlaw is a full-text database incorporating full text of laws, cases from all US jurisdictions, law review articles, and news supporting the legal research process.
+
 ## [Wiley Interscience](http://summit.csuci.edu:2048/login?url=http://onlinelibrary.wiley.com)
 
 > Wiley Online Library features access to over 4 million articles and 10,000 online books, including Earth and environmental sciences.
