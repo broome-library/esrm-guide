@@ -4,6 +4,10 @@
 
 > Academic Search Premier contains indexing and abstracts for more than 8,300 journals, with full text for more than 4,500 of those titles. This database contains coverage across the disciplines including biology, chemistry, engineering, physics, psychology, history, religion & theology, and many more.
 
+## [Environmental Studies & Policy Collection \(Gale\)](http://summit.csuci.edu/login?url=http://infotrac.galegroup.com/itweb/csuci?db=PPES)
+
+> The Environmental Studies & Policy Collection covers environmental topics. Includes articles from over 300 journals and books.
+
 ## [JSTOR](http://summit.csuci.edu:2048/login?url=http://www.jstor.org/search)
 
 > JSTOR offers a high-quality, interdisciplinary archive that has over one thousand leading academic journals across the humanities, social sciences, and sciences. JSTOR is primarily a historical archive and does not include items published within the last 3-5 years. In 2011, JSTOR will add some current articles.
