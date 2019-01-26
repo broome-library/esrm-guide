@@ -8,6 +8,10 @@
 
 > The Environmental Studies & Policy Collection covers environmental topics. Includes articles from over 300 journals and books.
 
+## [GREENR \(Global Reference on the Environment, Energy, and Natural Resources\) \(Gale\)](http://summit.csuci.edu/login?url=http://infotrac.galegroup.com/itweb/csuci?db=GRNR)
+
+> GREENR includes materials from multiple media covering topics relating to sustainability and the environment.
+
 ## [JSTOR](http://summit.csuci.edu:2048/login?url=http://www.jstor.org/search)
 
 > JSTOR offers a high-quality, interdisciplinary archive that has over one thousand leading academic journals across the humanities, social sciences, and sciences. JSTOR is primarily a historical archive and does not include items published within the last 3-5 years. In 2011, JSTOR will add some current articles.
