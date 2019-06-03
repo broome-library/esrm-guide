@@ -20,7 +20,7 @@
 
 > The _AESS_ seeks to serve the faculty, students, and staff of the 1,000+ interdisciplinary environmental programs in North America.
 
-## [Open Directory Project](http://www.dmoz.org/Science/Environment/Organizations/)
+## [Open Directory Project](http://dmoz-odp.org/Science/Environment/)
 
 > The largest and most comprehensive human-edited directory on the web, including content related to science and the environment.
 
